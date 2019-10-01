@@ -1,0 +1,15 @@
+/*
+.box {
+    box-sizing: border-box;
+    width: 25%;
+    height: 20rem;
+    background-color: salmon;
+    color: white;
+    float: left;
+    padding: 2rem;
+    border: 1px solid black;
+}
+*/
+*, *::before, *::after, *:before, *:after {
+    box-sizing: border-box;
+}
